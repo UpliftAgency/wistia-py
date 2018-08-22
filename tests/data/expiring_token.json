@@ -1,0 +1,18 @@
+{
+    "data": {
+        "id": "expiring_token_fd67c7df94599e797498c48887f7a543ed24z4e28d85e654dc057112e241efee",
+        "type": "expiring_access_token",
+        "attributes": {
+            "type": "access_token",
+            "token": "expiring_token_fd67c7df94599e797498c48887f7a543ed24z4e28d85e654dc057112e241efee",
+            "scopes": [
+                "all:all"
+            ],
+            "required_params": {
+                "project_id": "123456"
+            },
+            "expires_at": 153497761,
+            "expires_in": 172800
+        }
+    }
+}
